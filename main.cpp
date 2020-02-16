@@ -19,7 +19,7 @@ int main(){
      The "key" is : 1928787543
     */
     
-    cout << "Please Enter valid License Key\n";
+    cout << "Please Enter a valid License Key\n";
     
     cin >> x;
     
